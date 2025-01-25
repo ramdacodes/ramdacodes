@@ -8,16 +8,14 @@
 </div>
 
 <p align="center">
-  👨‍💻 Full-stack developer | 🎨 IT Enthusiast | 🌟 Passionate about Open Source
+  👨‍💻 Full-stack developer | 🎨 Tech Enthusiast | 🌟 Passionate about Open Source
 </p>
 
 ---
 
 ## 🚀 Projects
 
-- **[Notulensi Meeting App](https://github.com/ramdacodes/notulensi-app):** A Laravel-based application for meeting note management.
-- **[My Linux Configs](https://github.com/ramdacodes/linux-configs):** My personal Linux configuration files for Arch, Neovim, and more.
-- **[E-Commerce Admin Panel](https://github.com/ramdacodes/ecommerce-admin):** Admin dashboard built with Filament, TailwindCSS, and Laravel.
+- **[Notulensi Meeting App](https://github.com/ramdacodes/Notulensi-Rapat-Web-App):** A Laravel-based application for meeting note management.
 
 ---
 
@@ -31,9 +29,3 @@
 ## 💡 Quotes to Live By
 
 > "Code is like humor. When you have to explain it, it’s bad." – Cory House
-
----
-
-## 💰 You can help me by Donating
-
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ramdacodes)
