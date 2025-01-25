@@ -32,7 +32,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ramdacodes&show_icons=true&theme=dracula" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ramdacodes&theme=dark&hide_border=false" alt="Streak Stats" />
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=ramdacodes&theme=dark&hide_border=false)
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramdacodes&layout=compact&theme=dracula" alt="Top Languages" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ramdacodes&theme=dracula" alt="Profile Details" />
 </p>
