@@ -7,7 +7,7 @@
 </div>
 
 <p align="center">
-  👨‍💻 Full-stack developer | 🎨 Tech Enthusiast | 🌟 Passionate about Open Source
+  👨‍💻 Full stack developer | 🎨 Tech Enthusiast | 🌟 Passionate about Open Source
 </p>
 
 ---
