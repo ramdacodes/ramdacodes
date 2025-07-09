@@ -1,5 +1,3 @@
-# Hi, I'm Ferdy Rahmat Ramdani
-
 <div align="center">
   <img src="assets/banner.gif">
 
@@ -9,18 +7,6 @@
 <p align="center">
   👨‍💻 Full stack developer | 🎨 Tech Enthusiast | 🌟 Passionate about Open Source
 </p>
-
----
-
-## 🚀 Projects
-
-- **[Notulensi Meeting App](https://github.com/ramdacodes/Notulensi-Rapat-Web-App):** A Laravel-based application for meeting note management.
-
----
-
-## 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ferdyrahmat) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/matramdans)
 
 ---
 
